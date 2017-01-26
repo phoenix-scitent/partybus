@@ -1,0 +1,21 @@
+{
+  "name": "partybus",
+  "version": "0.1.0",
+  "description": "browser event bus",
+  "main": "src/partybus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/phoenix-scitent/partybus.git"
+  },
+  "keywords": [
+  ],
+  "author": "Manglass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phoenix-scitent/partybus/issues"
+  },
+  "homepage": "https://github.com/phoenix-scitent/partybus#readme"
+}
