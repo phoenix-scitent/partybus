@@ -1,4 +1,4 @@
-const EventEmitter = require('events');
+var EventEmitter = require('events');
 
 global.bus = global.bus || new EventEmitter();
 
